@@ -3,7 +3,7 @@ Olá, meu nome é Vanderson Santana. ![](https://user-images.githubusercontent.c
 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐞𝐝𝐨𝐫 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝
 
 
-✉️ Você pode entrar em contato comigo em [vanderson.anjos123@gmail.com](mailto:vanderson.anjos123@gmail.com)[](mailto:vanderson.anjos123@gmail.com)
+✉️ Você pode entrar em contato comigo em [vanderson.anjos123@gmail.com](mailto:vandersom.anjos123@gmail.com)[](mailto:vanderson.anjos123@gmail.com)
 
 
 🧠 𝐄𝐬𝐭𝐨𝐮 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐜̧𝐨̃𝐞𝐬 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬 𝐜𝐨𝐦 𝐀𝐩𝐢𝐬 𝐑𝐞𝐬𝐭 𝐅𝐮𝐥𝐥 𝐞 𝐌𝐨𝐝𝐞𝐥𝐨𝐬 𝐝𝐞 𝐈𝐀 ,𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧 , 𝐂𝐡𝐚𝐭𝐁𝐨𝐨𝐭 𝐞 𝐜𝐨𝐦𝐨 𝐢𝐧𝐭𝐞𝐠𝐫𝐚-𝐥𝐨𝐬 𝐞𝐦 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬.
