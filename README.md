@@ -6,7 +6,18 @@ Olá, meu nome é Vanderson Santana. ![](https://user-images.githubusercontent.c
 ✉️ Você pode entrar em contato comigo em [vandersom.anjos123@gmail.com](mailto:vandersom.anjos123@gmail.com)[](mailto:vanderson.anjos123@gmail.com)
 
 
-🧠 𝐄𝐬𝐭𝐨𝐮 𝐚𝐩𝐫𝐞𝐧𝐝𝐞𝐧𝐝𝐨 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐜̧𝐨̃𝐞𝐬 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬 𝐜𝐨𝐦 𝐀𝐩𝐢𝐬 𝐑𝐞𝐬𝐭 𝐅𝐮𝐥𝐥 𝐞 𝐌𝐨𝐝𝐞𝐥𝐨𝐬 𝐝𝐞 𝐈𝐀 ,𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧 , 𝐂𝐡𝐚𝐭𝐁𝐨𝐨𝐭 𝐞 𝐜𝐨𝐦𝐨 𝐢𝐧𝐭𝐞𝐠𝐫𝐚-𝐥𝐨𝐬 𝐞𝐦 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬.
+# 📚 Aprendizado em Integrações de Sistemas
+
+Estou me aprofundando nas seguintes áreas de estudo e habilidades para integrar sistemas com tecnologias avançadas:
+
+## 🛠️ Habilidades e Ferramentas em Estudo
+
+- **LangChain**  ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=&logoColor=white)  
+
+- **Chatbot**  🤖
+- **APIs REST Full**  🌐
+- **Streamlit**  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+- **DocLing**  📄
 
 ### Habilidades
 
