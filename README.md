@@ -3,7 +3,7 @@ Olá, meu nome é Vanderson Santana.
 
 ## 👨‍💻 Desenvolvedor Back-end com foco em Integração de Sistemas e Automação de Dados
 
-✉️ **Entre em contato:** [vanderson.anjos123@gmail.com](mailto:vanderson.anjos123@gmail.com)
+✉️ **Entre em contato:** [vandersom.anjos123@gmail.com](mailto:vandersom.anjos123@gmail.com)
 
 ---
 
